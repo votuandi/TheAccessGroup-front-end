@@ -1,6 +1,6 @@
 # Project Name
 
-This is a Frontend project using Node.js, Express, and PostgreSQL.
+This is a Frontend project using ReactJS, MUI, and Typescript.
 
 ## Getting Started
 
